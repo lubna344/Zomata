@@ -1,0 +1,446 @@
+
+.second{
+
+    background-image: url(imgs/slider1.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+.second h1{
+
+padding-top: 90px;
+margin-left: 35px;
+font-size: 80px;
+font-family: 'Slabo 27px', serif;
+
+
+}
+
+.second p{
+
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+.container2 {
+
+    position: relative;
+    left: 60px;
+    top: 80px;
+    /* font-family: 'Inconsolata', monospace; */
+    font-family: 'ZCOOL XiaoWei', serif;
+
+
+}
+
+.zomata img{
+
+    width: 40%;
+    height: 60%;
+    margin-top: 8%;
+    margin-left: 30px;
+    float: left;
+    z-index: -1;
+}
+
+.btn1{
+
+    font-size: 25.5px;
+    margin-top: 65px;
+    margin-left: 60px;
+    /* font-family: 'Titillium Web', sans-serif; */
+    font-family: 'ZCOOL XiaoWei', serif;
+    
+}
+
+.features{
+
+    text-align: center;
+    margin-top: 20%;
+}
+
+.features h1{
+
+    font-size: 60px;
+}
+
+.features p{
+
+    font-size: 15px;
+}
+
+.one {
+
+    margin-left: 20px;
+    padding: 20px 10px;
+    text-align: center;
+    margin-top: 7%;
+}
+
+.one .natural{
+
+    float: left;
+    margin-left: 30px;
+    padding: 20px 10px;
+}
+
+.one .safe{
+
+    float: left;
+    padding: 20px 20px;
+}
+
+.safe {
+
+    margin-left: 80px;
+}
+
+.products{
+
+    text-align: center;
+    margin-top: 120px;
+}
+
+.products h1{
+
+    font-size: 50px;
+}
+
+.allproducts .product1{
+
+    float: left;
+    padding: 15px 15px;
+    margin-left: 30px;
+    text-align: center;
+
+}
+
+.product3{
+
+    float: left;
+    padding: 15px 15px;
+    margin-left: 30px;
+    text-align: center;
+}
+
+.product2{
+
+    float: left;
+    padding: 15px 15px;
+    margin-left: 30px;
+    text-align: center;
+}
+
+.product4{
+
+    padding-top: 20px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+.visit{
+
+    background-image: url(imgs/bg2.jpg);
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    background-position: center;
+    background-attachment: scroll;
+    margin-top: 150px;
+    width: 100%;
+    height: 80%;
+}
+
+.visit h1{
+
+    padding-left: 70px;
+    padding-top: 150px;
+    font-size: 50px;
+    color: white;
+    
+}
+.organic p{
+
+    text-align: left;
+    padding-left: 70px;
+    margin-top: 35px;
+    color: white;
+}
+
+.step5 img{
+
+
+    width: 50%;
+    height: 60%;
+    margin-top: 10px;
+    margin-left: 8px;
+    float: left;
+    z-index: -1;
+}
+
+.step6 h1 {
+
+    margin-left: 30px;
+    margin-top: 90px;
+    font-family: 'Inconsolata', monospace;
+
+}
+
+.step7 img{
+
+    width: 4%;
+    height: 8%;
+    float: left;
+    margin: 15px;
+    
+}
+
+.step8 img{
+
+    width: 4%;
+    height: 8%;
+    float: left;
+    margin: 15px;
+   
+}
+
+.step9 img{
+
+    width: 4%;
+    height: 8%;
+    float: left;
+    margin: 15px;
+    
+}
+
+.step10{
+
+    text-align: center;
+    margin-top: 140px;
+}
+
+.step10 h1{
+
+    font-size: 60px;
+    font-weight: 500;
+}
+
+.row img{
+
+width: 100%;
+height: 100%;
+margin:0;
+box-sizing: border-box;
+
+
+}
+
+.row{
+
+    margin-top: 80px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    clear: both;
+    width: 100%;
+
+}
+
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+
+
+.container-fluid {
+
+    margin-right: 0;
+    overflow:hidden;
+    overflow-x: hidden;
+    clear:both;
+    padding-right: 0;
+    display: block;
+    /* grid-template-columns: 1fr 300px; */
+
+}
+
+.step11{
+
+    background-image: url(imgs/bg3.jpg);
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    background-position: center;
+    background-attachment: scroll;
+    margin-top: 150px;
+    width: 100%;
+    height: 80%;
+}
+
+.step11 h1{
+
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    padding-top: 100px;
+}
+
+.step12{
+
+    float: left;
+    margin-left: 80px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+        color: white;
+}
+
+.step13{
+
+    float: left;
+    margin-left: 80px;
+    font-size: 30px;
+    padding-top: 20px;
+    text-align: center;
+        color: white;
+
+}
+
+.step14{
+
+    float: left;
+    margin-left: 85px;
+    font-size: 30px;
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+
+}
+
+
+.step15{
+
+    padding-top: 25px;
+    margin-left: 80px;
+    font-size: 30px;
+    float: left;
+    text-align: center;
+        color: white;
+
+}
+
+.step12 h2{
+
+    padding-top: 25px;
+    margin-left: 60px;
+    float: left;
+    text-align: center;
+    font-size: 80px;
+}
+
+
+.step13 h2{
+
+    padding-top: 25px;
+    margin-left: 60px;
+    float: left;
+    text-align: center;
+    font-size: 80px;
+}
+
+.step14 h2{
+    padding-top: 25px;
+    margin-left: 50px;
+    float: left;
+    text-align: center;
+    font-size: 80px;
+}
+
+.step15 h2{
+    padding-top: 25px;
+    margin-left: 60px;
+    float: left;
+    text-align: center;
+    font-size: 80px;
+}
+
+.farmers{
+
+    padding: 30px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.farmers h1{
+
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.icon .icon2{
+
+    float:left;
+    padding: 10px 10px;
+}
+
+.icon img{
+
+    margin: 10px;
+}
+
+.icon2 p {
+
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+
+.step20 {
+
+    padding: 30px;
+    margin-top: 60px;
+    text-align: center;
+}
+
+.step20 h1{
+
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.blog{
+
+    float: left;
+    padding: 20px;
+}
+
+.blog .step30{
+
+    float: left;
+    padding: 15px 20px;
+    text-align: center;
+    margin-left: 20px;
+}
+
+.step30 p {
+
+    padding-top: 20px;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.slide{
+
+    float: left;
+    margin-top: 90px;
+    padding: 20px 20px;
+    margin-left: 50px;
+}
+
+.slide .slide1{
+
+    float: left;
+    padding: 20px 25px;
+    margin-left: 80px;
+}
